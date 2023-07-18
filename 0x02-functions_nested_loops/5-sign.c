@@ -1,6 +1,6 @@
 /*
  * File: 5-sign.c
- * Auth: Veresan
+ * Auth: Hussain
  */
 
 #include "main.h"
