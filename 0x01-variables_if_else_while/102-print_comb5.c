@@ -1,6 +1,6 @@
 /*
  * File: 102-print_comb5.c
- * Auth: vv
+ * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
@@ -35,7 +35,5 @@ int main(void)
 
 	putchar('\n');
 
-	return (0);
-}
 	return (0);
 }

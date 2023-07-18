@@ -1,6 +1,6 @@
 /*
  * File: 5-print_numbers.c
- * Auth: vv
+ * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
@@ -19,7 +19,5 @@ int main(void)
 
 	printf("\n");
 
-	return (0);
-}
 	return (0);
 }

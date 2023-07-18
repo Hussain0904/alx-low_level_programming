@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * Auth: vv
+ * Auth: Brennan D Baraban
  */
 
 #include <stdlib.h>
@@ -37,8 +37,5 @@ int main(void)
 	}
 
 	return (0);
-
-}
-return (0);
 
 }

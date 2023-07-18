@@ -1,6 +1,6 @@
 /*
  * File: 0-positive_or_negative.c
- * Auth: vv
+ * Auth: Brennan D Baraban
  */
 
 #include <stdlib.h>
@@ -27,7 +27,5 @@ int main(void)
 	else
 		printf("%d is zero\n", n);
 
-	return (0);
-}
 	return (0);
 }
