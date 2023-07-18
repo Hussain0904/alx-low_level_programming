@@ -1,6 +1,6 @@
 /*
  * File: 6-print_numberz.c
- * Auth: Brennan D Baraban
+ * Auth: vv
  */
 
 #include <stdio.h>
@@ -20,5 +20,7 @@ int main(void)
 
 	putchar('\n');
 
+	return (0);
+}
 	return (0);
 }

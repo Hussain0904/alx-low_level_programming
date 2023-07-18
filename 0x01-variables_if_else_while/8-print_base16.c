@@ -1,6 +1,6 @@
 /*
  * File: 8-print_base16.c
- * Auth: Brennan D Baraban
+ * Auth: vv
  */
 
 #include <stdio.h>
@@ -23,5 +23,7 @@ int main(void)
 
 	putchar('\n');
 
+	return (0);
+}
 	return (0);
 }

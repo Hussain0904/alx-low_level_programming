@@ -1,6 +1,6 @@
 /*
  * File: 4-print_alphabt.c
- * Auth: Brennan D Baraban
+ * Auth: vv
  */
 
 #include <stdio.h>
@@ -22,5 +22,7 @@ int main(void)
 
 	putchar('\n');
 
+	return (0);
+}
 	return (0);
 }
